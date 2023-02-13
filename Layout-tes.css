@@ -1,0 +1,85 @@
+*,html, body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 1024px;
+  margin: 0 auto;
+  border: 1px solid #000000;
+}
+
+.b {
+  width: 50%;
+  height: 500px;
+  background-color: white;
+ float: left;
+}
+.c {
+  width: 50%;
+  height: 500px;
+  background-color: purple ;
+  float: left;
+}
+
+.d {
+  width: 33.3%;
+  height: 500px;
+  background-color: red ;
+  float: left;
+}
+
+.e {
+  width: 33.3%;
+  height: 500px;
+  background-color: blue ;
+  float: left;
+}
+
+.f {
+  width: 33.3%;
+  height: 500px;
+  background-color: yellow ;
+  float: left;
+}
+  
+  .g {
+  width: 25%;
+  height: 500px;
+  background-color: purple ;
+  float: left;
+}
+
+.h {
+  width: 25%;
+  height: 500px;
+  background-color: pink ;
+  float: left;
+}
+
+.i {
+  width: 25%;
+  height: 500px;
+  background-color: green ;
+  float: left;
+}
+
+.j {
+  width: 25%;
+  height: 500px;
+  background-color: blue ;
+  float: left;
+}
+
+.j {
+  width: 100%;
+  height: 500px;
+  background-color: yellow ;
+  float: left;
+
+}
+footer {
+  width: 100%;
+  height: 100px;
+  background-color: purple ;
+  clear: both;
+}
